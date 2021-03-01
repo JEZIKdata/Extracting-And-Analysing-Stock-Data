@@ -1,1 +1,2 @@
-# Extracting_and_Analysing_Stock_Data
+##***Extracting and Analysing Stock Data***
+***These files are part of my IBM Data Analyst Certification projects.***
